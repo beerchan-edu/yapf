@@ -5,6 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
+swap = "AuQmLRES9mRH1KpkhwsfM4J7Z6jS8SQ29HhanyA8dyJp"
 yapf = "Cqz5XPZbPGkEHN9vxaS6eXNo4agFLYSjrW1LkPgEcvTE"
 
 [registry]

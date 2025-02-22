@@ -16,7 +16,7 @@ First checkbox is for Nikita, second checkbox is for Yana.
 + [ ] [ ] Project 4 - Building a CRUD Application
 + [X] [ ] Project 5 - Creating a Token
 + [ ] [ ] Project 6 - Creating a NFT
-+ [ ] [ ] Project 7 - Building a Swap Program
++ [X] [ ] Project 7 - Building a Swap Program
 + [ ] [ ] Project 8 - Creating a Token Vesting App
 + [ ] [ ] Project 9 - Building a Token Lottery
 + [ ] [ ] Project 10 - Lending Application
